@@ -23,7 +23,8 @@ https://api.coingecko.com/api/v3/companies/public_treasury/${currency}
 | Task 2 |https://koinx-priceconversion-assignment.onrender.com/api/currencyCoverter|
 |---|---|
 
-| Task 3 |https://koinx-priceconversion-assignment.onrender.com/api/companies/public_treasury||---|---|
+| Task 3 |https://koinx-priceconversion-assignment.onrender.com/api/companies/public_treasury|
+|---|---|
 --- 
 
 ## Task 1: Fetch Cryptocurrency Names and IDs
