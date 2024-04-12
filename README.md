@@ -78,7 +78,7 @@ Define PORT = 8000
 http://localhost:8000/api/companies/public_treasury
 ```
 2. Implemented the `getListofCompanies` function in the `listofCompaniesData.controller.js` file under `controllers` to handle the retrieval of company data.
-3. Tested the API functionality using Postman.
+3. Postman Testing for API functionality.
 ![Koinx_Backend_Assignment ](./assets/5.png?raw=true " Koinx_Backend_Assignment ")
 
 #### Request and Response Examples
@@ -128,15 +128,15 @@ http://localhost:8000/api/companies/public_treasury
 --- 
 
 #  Testing: For Testing this Server App in POSTMAN use following URL
-- **Task-1**: Get request to fetch All CryptoCurrency List
+- **Task-1**: Get-- request to fetch All CryptoCurrency List
 ```
 http://localhost:8000/api/cryptocurrencylist
 ```
-- **Task-2** : Post request to convert one Currency to another
+- **Task-2** : Post-- request to convert one Currency to another
 ```
 http://localhost:8000/api/currencyCoverter
 ```
-- **Task-3** : Post request to fetch ListofCompanies
+- **Task-3** : Post--request to fetch ListofCompanies
 ```
 http://localhost:8000/api/companies/public_treasury
 ```
@@ -145,15 +145,15 @@ Or
 ##  Testing: For Testing this Server App using Deployed Link in POSTMAN use following URL
 - **Task-1**: Get request to fetch All CryptoCurrency List
 ```
-https://koinx-backend-assignment-ah3d.onrender.com/api/cryptocurrencylist
+https://koinx-priceconversion-assignment.onrender.com/api/cryptocurrencylist
 ```
 - **Task-2** : Post request to convert one Currency to another
 ```
-https://koinx-backend-assignment-ah3d.onrender.com/api/currencyCoverter
+https://koinx-priceconversion-assignment.onrender.com/api/currencyCoverter
 ```
 - **Task-3** : Post request to fetch ListofCompanies
 ```
-https://koinx-backend-assignment-ah3d.onrender.com/api/companies/public_treasury
+https://koinx-priceconversion-assignment.onrender.com/api/companies/public_treasury
 ```
 ---
 
@@ -174,8 +174,8 @@ https://koinx-backend-assignment-ah3d.onrender.com/api/companies/public_treasury
 --- 
 # Installation & Steps to Run the Project Your Locally Storage
 1. Download or Clone the repository:
-```
- git clone https://github.com/arvindk2025/KoinX_Backend_Assignment_.git
+``` 
+ git clone https://github.com/ArnavSingha/KoinX-PriceConversion-Assignment.git
 ```
 
 2. Install all the required dependencies:
@@ -183,7 +183,7 @@ https://koinx-backend-assignment-ah3d.onrender.com/api/companies/public_treasury
  npm install
 ```
 
-3. Connect the MongoDB database by adding the Connection URL and PORT to the .env file (you can use MongoDB Atlas or Compass) : 
+3. Connect the MongoDB database by adding the Connection URL and PORT to the .env file : 
  ```
 MONGODB_URL = paste from connection string 
 PORT = 8000
@@ -196,4 +196,3 @@ Or
 ```
 npm run start
 ```
-
