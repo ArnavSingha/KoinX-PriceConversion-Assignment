@@ -1,4 +1,4 @@
-# KoinX Backend Assignment 
+# KoinX-PriceConversion-Assignment
 This project is a server-side application that allows users: 
 1. To fetch all the Cryptocurrency lists from the Coingecko API :-
 ```
