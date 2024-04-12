@@ -13,12 +13,17 @@ https://api.coingecko.com/api/v3/companies/public_treasury/${currency}
 ---
 
 ## Important Links:- 
-| Project  Demo Video Link | https://asset.cloudinary.com/arvindkumar/ab0493dbc217b32244ee32153eb75307|
+
+| Project Hosted Link on Render |https://koinx-priceconversion-assignment.onrender.com/|
 |---|---|
 
-| Project Hosted Link on Render |https://koinx-backend-assignment-ah3d.onrender.com/|
+| Task 1 |https://koinx-priceconversion-assignment.onrender.com/api/cryptocurrencylist|
 |---|---|
 
+| Task 2 |https://koinx-priceconversion-assignment.onrender.com/api/currencyCoverter|
+|---|---|
+
+| Task 3 |https://koinx-priceconversion-assignment.onrender.com/api/companies/public_treasury||---|---|
 --- 
 
 ## Task 1: Fetch Cryptocurrency Names and IDs
@@ -156,22 +161,6 @@ https://koinx-priceconversion-assignment.onrender.com/api/currencyCoverter
 https://koinx-priceconversion-assignment.onrender.com/api/companies/public_treasury
 ```
 ---
-
-## Technologies Used
-
-- Node.js
-- Express.js
-- MongoDB
-- Coingecko API
-- Render
-- MongoDB Atlas
-- POSTMAN
-- Cors
-- Axios
-- Node-Schedule Package
-- schedule.schedule job Method
-
---- 
 # Installation & Steps to Run the Project Your Locally Storage
 1. Download or Clone the repository:
 ``` 
@@ -196,3 +185,18 @@ Or
 ```
 npm run start
 ```
+---
+
+## Technologies Used
+
+- Node.js
+- Express.js
+- MongoDB
+- Coingecko API
+- Render
+- MongoDB Atlas
+- POSTMAN
+- Cors
+- Axios
+- Node-Schedule Package
+- schedule.schedule job Method
